@@ -1,0 +1,60 @@
+/* styles.css */
+
+body {
+    background-color: darkgreen;
+    margin: auto;
+    width: 75%;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: rgb(240, 240, 240);
+
+  }
+
+div {
+    text-align: center;
+    background-color: rgb(0, 120, 0);
+    padding: 10px;
+
+}
+
+h1 {
+    
+    font-family: Georgia, serif;
+    font-size: 40px;
+    color: white;
+    text-align: left
+}
+
+h3 {
+    font-family: Georgia, serif;
+    color: white;
+    text-align: left
+}
+
+p {
+    background-color: rgb(0, 120, 0);
+    text-align: left;
+}
+
+table {
+    background-color: rgb(1, 75, 1);
+    text-align: left;
+    padding: 20px;   
+    position: relative;
+    left: -16%;
+}
+
+button {
+    color: #ffffff;
+    background-color: #4CAF50;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: rgb(175, 208, 176)
+}
